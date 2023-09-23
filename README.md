@@ -8,9 +8,9 @@ It is specialized in meta-searching and UX along with common features of an e-co
 This project has been continued to [sheradambd](http://www.sheradambd.com/) and currently maintained by [GOLAM MOHAMMAD Shovon](https://github.com/golam-shovon)
 
 ## Contributors
-* **SAHA,JISHNU**   - [jishnusaha](https://github.com/jishnusaha)
-* **NAZMUL ISLAM**  - [Nazmul](https://github.com/NazmulAiub18)
-* **SAKIB,AHMED SHAHRIAR**  - [ahmedshahriar](https://github.com/ahmedshahriar)
+* **SOURAV KUMAR JHA**   - [Sourav kr. jha](https://github.com/jishnusaha)
+                           [](https://github.com/NazmulAiub18)
+                           [](https://github.com/ahmedshahriar)
 
 ### Prerequisites
 
