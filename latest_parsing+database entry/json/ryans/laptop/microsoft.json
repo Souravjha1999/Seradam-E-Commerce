@@ -1,0 +1,510 @@
+{
+    "Products": [
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel PDC Gold 4415Y\nProcessor Clock Speed - 1.6GHz\nDisplay Size - 10 inch\nRAM - 4GB\nStorage - 64GB EMMC\nGraphics Chipset - Intel HD Graphics 615\nGraphics Memory - Shared"
+            ],
+            "display_size": "10\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/h/mhn-00001-2_1.jpg",
+            "model": "Microsoft Surface Go",
+            "price": 47000,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-go-intel-pdc-gold-4415y-1-6ghz-4gb-64gb-emmc-10-inch-pixelsense-1800x1200-multitouch-display-silver-win-10-s-surface-go-type-cover-is-sold-separately-mhn-00001.html",
+            "product_title": " Microsoft Surface Go Intel PDC Gold 4415Y, 1.6GHz, 4GB, 64GB EMMC, 10 Inch PixelSense (1800x1200) MultiTouch Display, Silver, Win 10 S Surface Go (Type Cover is sold separately) #MHN-00001 ",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "64GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i3 1005G1\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.20-3.40GHz\nDisplay Size - 12.3 inch\nRAM - 4GB\nStorage - 128GB SSD\nGraphics Chipset - Intel UHD Graphics\nGraphics Memory - Shared"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/q/w/qwt-00001-02.jpg",
+            "model": "Microsoft Surface Pro 7",
+            "price": 80000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7-10th-gen-intel-core-i3-notebook.html",
+            "product_title": "Microsoft Surface Pro 7 10th Gen Intel Core i3 1005G1 (1.20GHz-3.40GHz, 4GB, 128GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover Included) #QWT-00001",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5\nProcessor Generation - 8th Gen\nDisplay Size - 12.3\"\nRAM - 8GB\nStorage - 128GB SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared\nOperating System - Windows 10 Home"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/p/lpg-00001-1_3.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 90500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i5-notebook-11653.html",
+            "product_title": " Microsoft Surface Pro 6 8th Gen Intel Core i5, 8GB, 128GB, Intel UHD 620 Graphics, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #LGP-00001 ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 1035G4\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.10-3.70GHz\nDisplay Size - 12.3 inch\nRAM - 8GB\nStorage - 128GB SSD\nGraphics Chipset - Intel Iris Plus Graphics"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-7-p-07_1.jpg",
+            "model": "Microsoft Surface Pro 7",
+            "price": 95000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7-10th-gen-intel-core-i5-notebook-16335.html",
+            "product_title": "Microsoft Surface Pro 7 10th Gen Intel Core i5 1035G4 (1.10GHz-3.70GHz, 8GB, 128GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #QDW-00001/VDV-00001",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 8250U\nProcessor Generation - 8th Gen\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 12.3 Inch\nRAM - 8GB\nStorage - 128GB SSD\nGraphics Chipset - Intel UHD Graphics 620"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-6-pl-05.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 95500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i5-notebook-16459.html",
+            "product_title": "Microsoft Surface Pro 6 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz 8GB, 128GB SSD) Intel UHD 620 Graphics, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover Included) #NKR-00001",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Generation - 7th Gen\nProcessor - Intel Core i5\nDisplay Size - 13.5\"\nRAM - 8GB\nStorage - 256GB SSD\nOperating System - Windows 10 S"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/d/a/dag-00003.jpg",
+            "model": "Microsoft Surface Laptop",
+            "price": 106000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-7th-gen-intel-core-i5-notebook.html",
+            "product_title": "Microsoft Surface Laptop 7th Gen Intel Core i5, 8GB, 256GB, 13.5 Inch Pixel Sense (2256x1504) Touch Display, Win 10s, Graphite Gold Notebook #DAG-00003",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5\nProcessor Generation - 8th Gen\nDisplay Size - 12.3\"\nRAM - 8GB\nStorage - 256GB SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared\nOperating System - Windows 10 Home"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/k/j/kjt-00001-05_1_2.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 107000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i5-notebook-15043.html",
+            "product_title": " Microsoft Surface Pro 6 8th Gen Intel Core i5, 8GB, 256GB, Intel UHD 620 Graphics, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #KJT-00001 ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Generation - 8th Gen\nProcessor - Intel Core i5\nDisplay Size - 12.3\"\nRAM - 8GB\nStorage - 256GB SSD\nOperating System - Windows 10 Home"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/j/ljm-00028-02.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 112000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i5-notebook-11793.html",
+            "product_title": " Microsoft Surface Pro 6 8th Gen Intel Core i5, 8GB, 256GB SSD, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Black Notebook (Type Cover Included) #LJM-00028 ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 8350U\nProcessor Generation - 8th Gen\nProcessor Clock Speed - 1.70-3.60GHz\nDisplay Size - 12.3 Inch\nRAM - 8GB\nStorage - 256GB SSD\nGraphics Chipset - Intel UHD Graphics 620"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/k/j/kjt-00001-05_1.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 116000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i5-8350u-1-70ghz-3-60ghz-8gb-256gb-ssd-12-3-inch-pixelsense-2736x1824-multitouch-display-win-10-pro-platinum-notebook-type-cover-is-sold-separately-lq6-00001.html",
+            "product_title": " Microsoft Surface Pro 6 8th Gen Intel Core i5 8350U (1.70GHz-3.60GHz, 8GB, 256GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10 Pro, Platinum Notebook (Type Cover is sold separately) #LQ6-00001 ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 13.5\"\nRAM - 8GB\nRAM Type - LPDDR3\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/d/a/dag-00114-02.jpg",
+            "model": "Microsoft Surface Laptop 2",
+            "price": 118000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-2-8th-gen-intel-core-i5-notebook-13178.html",
+            "product_title": "Microsoft Surface Laptop 2 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 8GB, 256GB SSD) 13.5 Inch PixelSense (2256x1504) Multi Touch Display, Win 10, Black Notebook #DAG-00114",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Generation - 8th Gen\nProcessor - Intel Core i5 8250U\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 13.5\"\nRAM - 8GB\nRAM Type - LPDDR3\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/j/k/jkm-00019-1_3.jpg",
+            "model": "Microsoft Surface Laptop 2",
+            "price": 119000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-2-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Microsoft Surface Laptop 2 8th Gen Intel Core i5 8250U, 8GB, 256GB SSD, 13.5 Inch PixelSense (2256x1504) Multi Touch Display, Win 10, Platinum Notebook #LQN-00001 / LQP-00001",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 13.5\"\nRAM - 8GB\nRAM Type - LPDDR3"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/q/lqs-00024-02_1.jpg",
+            "model": "Microsoft Surface Laptop 2",
+            "price": 119000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-2-8th-gen-intel-core-i5-notebook-12277.html",
+            "product_title": "Microsoft Surface Laptop 2 8th Gen Intel Core i5 8250U, 8GB, 256GB SSD, 13.5 Inch PixelSense (2256x1504) Multi Touch Display, Win 10, Burgundy Notebook #LQN-00024\t",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 8350U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.7-3.6GHz\nDisplay Size - 13.5\"\nRAM - 8GB\nRAM Type - LPDDR3 1866MHz\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/p/g/pgu-00001-02.jpg",
+            "model": "Microsoft Surface Book 2",
+            "price": 120000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-book-2-8th-gen-intel-core-i5-notebook.html",
+            "product_title": " Microsoft Surface Book 2 8th Gen Intel Core i5 8350U (1.7GHz-3.6GHz, 8GB, 256GB SSD) 13.5 Inch PixelSense (3000x2000) MultiTouch Display, Win 10, Silver 2 in 1 Notebook #PGU-00001/PGV-00001 ",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 1035G4\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.10-3.70GHz\nDisplay Size - 12.3 inch\nRAM - 8GB\nStorage - 256GB SSD\nGraphics Chipset - Intel Iris Plus Graphics\nGraphics Memory - Shared"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-7-p-07.jpg",
+            "model": "Microsoft Surface Pro 7",
+            "price": 121000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7-10th-gen-intel-core-i5-notebook.html",
+            "product_title": "Microsoft Surface Pro 7 10th Gen Intel Core i5 1035G4 (1.10GHz-3.70GHz, 8GB, 256GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #PUV-00001",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 1035G7\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.20-3.70GHz\nDisplay Size - 13.5 Inch\nRAM - 8GB\nRAM Type - LPDDR4x\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-laptop-3-b-02.jpg",
+            "model": "Microsoft Surface Laptop 3",
+            "price": 126000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-3-10th-gen-intel-core-i5-laptop.html",
+            "product_title": "Microsoft Surface Laptop 3 10th Gen Intel Core i5 1035G7 (1.20GHz-3.70GHz, 8GB, 256GB SSD) 13.5 Inch Pixelsense (2256x1504) Multi Touch Display, Windows 10, Matte Black Surface Laptop #V4C-00022",
+            "ram": "8GB",
+            "ram_type": "LPDDR4x",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7 8650U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.9-4.2GHz\nDisplay Size - 13.5\"\nRAM - 8GB\nRAM Type - LPDDR3\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.5\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/d/a/daj-00092-02.jpg",
+            "model": "Microsoft Surface Laptop 2",
+            "price": 137000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-laptop-2-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Microsoft Surface Laptop 2 8th Gen Intel Core i7 8650U (1.9GHz-4.2GHz, 8GB, 256GB) 13.5 Inch (2256x1504) Pixel Sense Display, Black Notebook #DAJ-00092",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7 8650U\nProcessor Generation - 8th Gen\nProcessor Clock Speed - 1.90-4.20GHz\nDisplay Size - 12.3\"\nRAM - 8GB\nStorage - 256GB SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared\nOperating System - Windows 10 Home"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/q/lqh-00016-02.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 138000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i7-notebook.html",
+            "product_title": " Microsoft Surface Pro 6 8th Gen Intel Core I7 8650U, 8gb, 256gb SSD, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Black Notebook (Type Cover is sold separately) #LQH-00016/KJU-00016 ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5 1035G4\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.10-3.70GHz\nDisplay Size - 12.3 Inch\nRAM - 16GB\nStorage - 256GB SSD\nGraphics Chipset - Intel Iris Plus Graphics\nGraphics Memory - Shared\nOperating System - Windows 10 Home"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-7-p-07_2.jpg",
+            "model": "Microsoft Surface Pro 7",
+            "price": 145000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7-10th-gen-intel-core-i5-notebook-16360.html",
+            "product_title": "Microsoft Surface Pro 7 10th Gen Intel Core i5 1035G4 (1.10GHz-3.70GHz, 16GB, 256GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #PUW-00001",
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7 7660U\nProcessor Generation - 7th Gen\nProcessor Clock Speed - 2.5-4.0GHz\nDisplay Size - 12.3\"\nRAM - 16GB\nStorage - 512GB SSD\nGraphics Chipset - Intel Iris Plus Graphics 640\nGraphics Memory - Shared\nOperating System - Windows 10 Pro"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/f/k/fkj-00001-02.jpg",
+            "model": "Microsoft Surface Pro",
+            "price": 160000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7th-gen-intel-core-i7-notebook.html",
+            "product_title": "Microsoft Surface Pro 7th Gen Intel Core i7 7660U (2.5GHz-4.0Ghz, 16GB, 512GB SSD) 12.3 Inch PixelSense (2736x1824) Multitouch Display, Win 10 Pro, Platinum Notebook (Type Cover is sold separately) #FKJ-00001",
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7 1065G7\nProcessor Generation - 10th Gen\nProcessor Clock Speed - 1.30-3.90GHz\nDisplay Size - 12.3 Inch\nRAM - 16GB\nStorage - 256GB SSD\nGraphics Chipset - Intel Iris Plus Graphics\nGraphics Memory - Shared"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-7-p-07_3.jpg",
+            "model": "Microsoft Surface Pro 7",
+            "price": 165000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-7-10th-gen-intel-core-i7-notebook.html",
+            "product_title": "Microsoft Surface Pro 7 10th Gen Intel Core i7 1065G7 (1.30GHz-3.90GHz, 16GB, 256GB SSD) 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Platinum Notebook (Type Cover is sold separately) #VNX-00001",
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7 8650U\nProcessor Generation - 8th Gen\nProcessor Clock Speed - 1.90-4.20GHz\nDisplay Size - 12.3 inch\nRAM - 16GB\nStorage - 512GB SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "12.3\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft-surface-pro-6-b-01.jpg",
+            "model": "Microsoft Surface Pro 6",
+            "price": 171000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-pro-6-8th-gen-intel-core-i7-notebook-16145.html",
+            "product_title": "Microsoft Surface Pro 6 8th Gen Intel Core i7 8650U, 16GB, 512GB SSD, 12.3 Inch PixelSense (2736x1824) MultiTouch Display, Win 10, Black Notebook (Type Cover is sold separately) #KJV-00016",
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8650U\nProcessor Clock Speed - 1.90-4.20GHz\nDisplay Size - 15 inch\nRAM - 16GB\nRAM Type - LPDDR3 1866MHz\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "15\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "6GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/f/v/fvg-00001-01_1.jpg",
+            "model": "Microsoft Surface Book 2",
+            "price": 250000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-book-2-8th-gen-intel-core-i7-notebook-15485.html",
+            "product_title": " Microsoft Surface Book 2 8th Gen Intel Core i7 8650U (1.90GHz-4.20GHz, 16GB, 512GB PCIe SSD), nVidia GTX1060 6GB GDDR5 Graphics, 15 Inch PixelSense (3240x2160) MultiTouch Display, Win 10 Pro, Silver 2 in 1 Notebook #FVG-00001/FUX-00001 ",
+            "ram": "16GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Microsoft",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8650U\nProcessor Clock Speed - 1.90-4.20GHz\nDisplay Size - 15\"\nRAM - 16GB\nRAM Type - LPDDR3 1866MHz\nStorage - 1TB SSD"
+            ],
+            "display_size": "15\"",
+            "display_type": "PixelSense Touch",
+            "graphics_memory": "6GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/u/surface.jpg",
+            "model": "Microsoft Surface Book 2",
+            "price": 295000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/microsoft/microsoft-surface-book-2-8th-gen-intel-core-i7-notebook.html",
+            "product_title": " Microsoft Surface Book 2 8th Gen Intel Core i7 8650U (1.90GHz-4.20GHz, 16GB, 1TB SSD), nVidia GTX1060 6GB GDDR5 Graphics, 15 Inch PixelSense (3240x2160) MultiTouch Display, Win 10 Pro, Silver 2 in 1 Notebook #FVH-00001 ",
+            "ram": "16GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        }
+    ]
+}

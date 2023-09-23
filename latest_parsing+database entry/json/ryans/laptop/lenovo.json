@@ -1,0 +1,2412 @@
+{
+    "Products": [
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel CDC N4000\nProcessor Clock Speed - 1.1-2.6GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d100f8in-2_7.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 25000,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-intel-cdc-n4000-notebook.html",
+            "product_title": "Lenovo IdeaPad 330 Intel CDC N4000 (1.1GHz-2.6GHz, 4GB, 1TB) 15.6 Inch HD (1366X768) Display Free DOS, Chocolate Notebook # 81D100F6IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel PQC N3710\nProcessor Clock Speed - 1.60GHz\nDisplay Size - 15.6 Inch\nRAM - 4GB\nRAM Type - DDR3L 1600MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip110-1_1_1.jpg",
+            "model": "Lenovo IdeaPad 110",
+            "price": 25800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-110-intel-pqc-n3710-1-60ghz-4gb-ddr3l-1tb-15-6-inch-black-notebook-80t70067in.html",
+            "product_title": " Lenovo IdeaPad 110 Intel PQC N3710 (1.60GHz, 4GB DDR3L, 1TB) 15.6 Inch Black Notebook #80T70067IN ",
+            "ram": "4GB",
+            "ram_type": "DDR3L",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A4-9125\nProcessor Clock Speed - 2.3-2.6GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-320-8th-platinum-grey-4_3_22.jpg",
+            "model": "Lenovo IdeaPad 330-15AST",
+            "price": 26200,
+            "processor": "AMD A4",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip330-15ast-amd-a4-9125-notebook.html",
+            "product_title": " Lenovo IdeaPad 330-15AST AMD A4-9125 (2.3GHz-2.6GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display, Free DOS, Platinum Grey Notebook #81D600D5IN-1Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A4-9125\nProcessor Clock Speed - 2.3-2.6GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-320-black-1_1_29.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 26200,
+            "processor": "AMD A4",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip330-amd-a4-9125-notebook.html",
+            "product_title": " Lenovo IdeaPad 330 AMD A4 9125 (2.3GHz-2.6GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display, Fee DOS, Obsidian Black Notebook #81D600D4IN-1Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A4-9125\nProcessor Clock Speed - 2.3-2.6GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip330s_4.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 26200,
+            "processor": "AMD A4",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-a4-9125-2-3ghz-2-6ghz-4gb-ddr4-1tb-15-6-inch-hd-1366x768-display-free-dos-midnight-blue-notebook-81d600d6in-1y.html",
+            "product_title": " Lenovo IdeaPad 330 AMD A4-9125 (2.3GHz-2.6GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display, Free DOS, Midnight Blue Notebook #81D600D6IN-1Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A4-9125\nProcessor Clock Speed - 2.3-2.6GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-330-chocolate-1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 26200,
+            "processor": "AMD A4",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-a4-9125-2-3ghz-2-6ghz-4gb-ddr4-1tb-15-6-inch-hd-1366x768-display-free-dos-chocolate-notebook-81d600d7in-1y.html",
+            "product_title": " Lenovo IdeaPad 330 AMD A4-9125 (2.3GHz-2.6GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display, Free DOS, Chocolate Notebook #81D600D7IN-1Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A4-9125\nProcessor Clock Speed - 2.3-2.6GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-310-black-2_2_5.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 26500,
+            "processor": "AMD A4",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-a4-9125-2-3ghz-2-6ghz-4gb-ddr4-1tb-14-inch-hd-1366x768-display-free-dos-onix-black-notebook-81d5003pin-1y.html",
+            "product_title": " Lenovo IdeaPad 330 AMD A4-9125 (2.3GHz-2.6GHz, 4GB DDR4, 1TB) 14 Inch HD (1366x768) Display, Free DOS, Onix Black Notebook #81D5003PIN-1Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel CDC 3867U\nProcessor Clock Speed - 1.8GHz\nDisplay Size - 14 inch\nRAM - 4GB\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-330-14ikbr-01.jpg",
+            "model": "Lenovo IdeaPad 330-14IKBR",
+            "price": 27800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-14ikbr-intel-cdc-3867u-1-8ghz-4gb-1tb-hdd-dvd-rw-14-inch-hd-1366x768-display-win-10-platinum-grey-notebook-81g200dbin.html",
+            "product_title": " Lenovo IdeaPad 330-14IKBR Intel CDC 3867U (1.8GHz, 4GB, 1TB HDD, DVD RW) 14 Inch HD (1366x768) Display, Win 10, Platinum Grey Notebook #81G200DBIN ",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel CDC 3867U\nProcessor Clock Speed - 1.8GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-330-14ikbr-01_1.jpg",
+            "model": "Lenovo IdeaPad 330-15IKBR",
+            "price": 27800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-15ikbr-intel-cdc-3867u-1-8ghz-4gb-1tb-hdd-dvd-rw-15-6-inch-hd-1366x768-display-win-10-platinum-grey-notebook-81de031pin.html",
+            "product_title": " Lenovo IdeaPad 330-15IKBR Intel CDC 3867U (1.8GHz, 4GB, 1TB HDD, DVD RW) 15.6 Inch HD (1366x768) Display, Win 10, Platinum Grey Notebook #81DE031PIN ",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel PQC N5000\nProcessor Clock Speed - 1.1-2.7GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/d/ideapad-330-01.jpg",
+            "model": "Lenovo Ideapad 330",
+            "price": 28800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-intel-pqc-n5000-notebook-12502.html",
+            "product_title": "Lenovo Ideapad 330 Intel PQC N5000 (1.1GHz-2.7GHz, 4GB DDR4, 1TB) 14 Inch HD (1366x768) Display, Free DOS, Platinum Grey Notebook (1 Year Warranty) #81D0004WIN\t",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel PQC N5000\nProcessor Clock Speed - 1.1-2.7GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/d/ideapad-330-01_1.jpg",
+            "model": "Lenovo Ideapad 330",
+            "price": 28800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-intel-pqc-n5000-notebook.html",
+            "product_title": "Lenovo Ideapad 330 Intel PQC N5000 (1.1GHz-2.7GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display Platinum Grey Notebook (1 Year Warranty) #81D100PJIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel CDC N4000\nProcessor Clock Speed - 1.1-2.6GHz\nDisplay Size - 11.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 500GB HDD"
+            ],
+            "display_size": "11.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s130-11igm-mb-02.jpg",
+            "model": "Lenovo IdeaPad S130-11IGM",
+            "price": 29800,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s130-11igm-intel-cdc-n4000-1-1ghz-2-6ghz-4gb-ddr4-500gb-5400rpm-11-6-inch-hd-1366x768-display-win-10-midnight-blue-notebook-81j1007uin-1y.html",
+            "product_title": " Lenovo IdeaPad S130-11IGM Intel CDC N4000 (1.1GHz-2.6GHz, 4GB DDR4, 500GB 5400RPM) 11.6 Inch HD (1366x768) Display, Win 10, Midnight Blue Notebook #81J1007UIN-1Y ",
+            "ram": "DDR4",
+            "ram_type": "4GB",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel PDC 5405U\nProcessor Clock Speed - 2.3GHz\nDisplay Size - 14 Inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB HDD\nSSD Expansion Slot - 1 x M.2 PCIe Blank SSD Slot"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-g-01.jpg",
+            "model": "Lenovo IdeaPad IP S145-14IWL",
+            "price": 30000,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-14iwl-intel-pdc-5405u-2-3ghz-4gb-ddr4-1tb-hdd-14-inch-hd-1366x768-display-win-10-grey-notebook-81mu00c9in.html",
+            "product_title": " Lenovo IdeaPad IP S145-14IWL Intel PDC 5405U (2.3GHz, 4GB DDR4, 1TB HDD) 14 Inch HD (1366x768) Display, Win 10, Grey Notebook #81MU00C9IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel PDC 5405U\nProcessor Clock Speed - 2.3GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD\nGraphics Chipset - Intel UHD Graphics 610"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-15iwl-g-01.jpg",
+            "model": "Lenovo IdeaPad IP S145-15IWL",
+            "price": 30000,
+            "processor": "Others",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-intel-pdc-5405u-notebook.html",
+            "product_title": " Lenovo IdeaPad IP S145-15IWL Intel PDC 5405U (2.3GHz, 4GB DDR4, 1TB HDD) 15.6 Inch HD (1366x768) Display, Win 10, Grey Notebook #81MV00NVIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i3 6006U\nGeneration - 6th Gen\nProcessor Clock Speed - 2.0GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81h6001win-02.jpg",
+            "model": "Lenovo IdeaPad 130",
+            "price": 33500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-6th-gen-intel-core-i3-6006u-notebook.html",
+            "product_title": "Lenovo IdeaPad 130 6th Gen Intel Core i3 6006U (2.0GHz, 4GB DDR4, 1TB, DVD RW) 14 Inch HD (1366x768) AntiGlare Display, Free DOS, Black Notebook #81H6001WIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 7th Gen\nProcessor - Intel Core i3 7020U\nProcessor Clock Speed - 2.3GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/3/130-14ikb-b-03.jpg",
+            "model": "Lenovo IdeaPad 130-14IKB",
+            "price": 37000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-14ikb-7th-gen-intel-core-i3-7020u-2-3ghz-4gb-ddr4-1tb-hdd-5400rpm-dvd-rw-14-inch-hd-1366x768-display-free-dos-black-notebook-81h6000fin-2y.html",
+            "product_title": "Lenovo IdeaPad 130-14IKB 7th Gen Intel Core i3 7020U (2.3GHz, 4GB DDR4, 1TB HDD 5400RPM, DVD RW) 14 Inch HD (1366x768) Display, Free DOS, Black Notebook #81H6000FIN-2Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 7th Gen\nProcessor - Intel Core i3 7020U\nProcessor Clock Speed - 2.3GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/3/130-15ikb-b-02.jpg",
+            "model": "Lenovo IdeaPad 130-15IKB",
+            "price": 37000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-15ikb-7th-gen-intel-core-i3-7020u-2-3ghz-4gb-ddr4-1tb-5400rpm-dvd-rw-15-6-inch-hd-1366x768-display-free-dos-black-notebook-81h7001hin-2y.html",
+            "product_title": "Lenovo IdeaPad 130-15IKB 7th Gen Intel Core i3 7020U (2.3GHz, 4GB DDR4, 1TB 5400RPM, DVD RW) 15.6 Inch HD (1366x768) Display, Free DOS, Black Notebook #81H7001HIN-2Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A9-9425\nProcessor Clock Speed - 3.1-3.7GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d100f8in-2_1_3.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 40000,
+            "processor": "AMD A9",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-a9-9425-notebook.html",
+            "product_title": "Lenovo IdeaPad 330 AMD A9-9425 (3.1GHz-3.7GHz, 1x 4GB DDR4 2133, 1TB) Radeon 530 2GB DDR5 Graphics, 15.6 Inch FHD (1920X1080) Display, Win-10 Home, Chocolate Notebook #81D6007PIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD A9-9425\nProcessor Clock Speed - 3.1-3.7GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d100f8in-2_4.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 40200,
+            "processor": "AMD A9",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-a9-9425-notebook-10561.html",
+            "product_title": "Lenovo IdeaPad 330 AMD A9-9425 (3.1GHz-3.7GHZ, 4GB DDR4, 1TB) AMD Radeon 530 2GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win-10, Platinum Grey Notebook #81D6007RIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD Ryzen 3 2200U\nProcessor Clock Speed - 2.5-3.4GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-320-8th-platinum-grey-4_3_24.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 41500,
+            "processor": "AMD Ryzen 3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-ryzen-3-2200u-2-5ghz-3-4ghz-4gb-ddr4-1tb-amd-radeon-535-2gb-ddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-platinum-grey-notebook-81d2007uin-2y.html",
+            "product_title": " Lenovo IdeaPad 330 AMD Ryzen 3 2200U (2.5GHz-3.4GHz, 4GB DDR4, 1TB) AMD Radeon 535 2GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Grey Notebook #81D2007UIN-2Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD Ryzen 3 2200U\nProcessor Clock Speed - 2.5-3.4GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-330-mb-01_1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 41500,
+            "processor": "AMD Ryzen 3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-ryzen-3-2200u-2-5ghz-3-4ghz-4gb-ddr4-1tb-amd-radeon-535-2gb-ddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-midnight-blue-notebook-81d2007sin-2y.html",
+            "product_title": " Lenovo IdeaPad 330 AMD Ryzen 3 2200U (2.5GHz-3.4GHz, 4GB DDR4, 1TB) AMD Radeon 535 2GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Midnight Blue Notebook #81D2007SIN-2Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-b-01.jpg",
+            "model": "Lenovo IdeaPad IP S145-14IWL",
+            "price": 41500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-14iwl-8th-gen-intel-core-i3-8145u-2-10ghz-3-90ghz-4gb-ddr4-1tb-hdd-14-inch-fhd-1920x1080-display-win-10-black-notebook-81mu00bvin.html",
+            "product_title": "Lenovo IdeaPad IP S145-14IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD) 14 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MU00BVIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-15iwl-g-01_1.jpg",
+            "model": "Lenovo IdeaPad IP S145-15IWL",
+            "price": 41500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-8th-gen-intel-core-i3-notebook-15325.html",
+            "product_title": "Lenovo IdeaPad IP S145-15IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD) 15.6 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MV00NUIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-b-01_1.jpg",
+            "model": "Lenovo IdeaPad IP S145-15IWL",
+            "price": 41500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-8th-gen-intel-core-i3-notebook.html",
+            "product_title": "Lenovo IdeaPad IP S145-15IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD) 15.6 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MV00NTIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-g-01_1.jpg",
+            "model": "Lenovo IdeaPad IP S145-14IWL",
+            "price": 41800,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-14iwl-8th-gen-intel-core-i3-8145u-2-10ghz-3-90ghz-4gb-ddr4-1tb-hdd-14-inch-fhd-1920x1080-display-win-10-grey-notebook-81mu00bwin.html",
+            "product_title": "Lenovo IdeaPad IP S145-14IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD) 14 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MU00BWIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.1-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-03.jpg",
+            "model": "Lenovo Ideapad L340",
+            "price": 42900,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-8th-gen-intel-core-i3-8145u-2-1ghz-3-9ghz-4gb-ddr4-1tb-hdd-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-platinum-grey-notebook-81lg009win.html",
+            "product_title": " Lenovo Ideapad L340 8th Gen Intel Core i3 8145U (2.1GHz-3.9GHz, 4GB, DDR4, 1TB HDD, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Grey Notebook #81LG009WIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.1-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-gb-03.jpg",
+            "model": "Lenovo Ideapad L340",
+            "price": 42900,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-8th-gen-intel-core-i3-8145u-2-1ghz-3-9ghz-4gb-ddr4-1tb-hdd-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-granite-black-notebook-81lg009vin.html",
+            "product_title": " Lenovo Ideapad L340 8th Gen Intel Core i3 8145U (2.1GHz-3.9GHz, 4GB, DDR4, 1TB HDD, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Granite Black Notebook #81LG009VIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 7th Gen\nProcessor - Intel Core i3 7020U\nProcessor Clock Speed - 2.3GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD (5400RPM)\nGraphics Chipset - Nvidia MX110 Graphics\nGraphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/3/130-15ikb-b-02_1.jpg",
+            "model": "Lenovo IdeaPad 130-15IKB",
+            "price": 43000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-15ikb-7th-gen-intel-core-i3-7020u-2-3ghz-4gb-ddr4-1tb-5400rpm-dvd-rw-nvidia-mx110-2gb-graphics-15-6-inch-hd-1366x768-display-free-dos-black-notebook-81h7001jin-2y.html",
+            "product_title": "Lenovo IdeaPad 130-15IKB 7th Gen Intel Core i3 7020U (2.3GHz, 4GB DDR4, 1TB 5400RPM, DVD RW) Nvidia MX110 2GB Graphics, 15.6 Inch HD (1366x768) Display, Free DOS, Black Notebook #81H7001JIN-2Y ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8130U\nProcessor Clock Speed - 2.20-3.40GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "IPS FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-320-8th-platinum-grey-4_3_14.jpg",
+            "model": "Lenovo IdeaPad 330s",
+            "price": 44800,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330s-8th-gen-intel-core-i3-notebook-10633.html",
+            "product_title": "Lenovo IdeaPad 330s 8th Gen Intel Core i3 8130U (2.20GHz-3.40GHz, 4GB, 1TB) 14 Inch FHD (1920X1080) IPS Display, Win-10 Home, Backlit Keyboard, Platinum Grey Notebook #81F400PUIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i3 8130U\nGeneration - 8th Gen\nProcessor Clock Speed - 2.2-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81f501dnin-01.jpg",
+            "model": "Lenovo IdeaPad 330S",
+            "price": 44800,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330s-8th-gen-intel-core-i3-notebook.html",
+            "product_title": "Lenovo IdeaPad 330S 8th Gen Intel Core i3 8130U (2.2GHz-3.4GHz, 4GB DDR4, 1TB, M.2 Slot) 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Midnight Blue Notebook #81F501DNIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/d/ideapad-130-01_1.jpg",
+            "model": "Lenovo Ideapad 130",
+            "price": 45100,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-8th-gen-i5-8250u-notebook.html",
+            "product_title": "Lenovo Ideapad 130 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz, 4GB DDR4, 1TB) 14 Inch HD (1366x768) Display, Free DOS, Black Notebook #81H60025IN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/d/ideapad-130-01_2.jpg",
+            "model": "Lenovo Ideapad 130",
+            "price": 45100,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-8th-gen-i5-8250u-notebook-12537.html",
+            "product_title": "Lenovo Ideapad 130 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Display, Free DOS, Black Notebook #81H7007NIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6 Inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ab-04_1.jpg",
+            "model": "Lenovo IdeaPad S145",
+            "price": 46000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-8th-gen-intel-core-i3-notebook-16253.html",
+            "product_title": " Lenovo IdeaPad S145 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD, No-ODD) Nvidia MX110 2GB Graphics, 15.6 Inch FHD (1920 x 1080) Display, Windows 10 Home, Black Notebook #81MV018QIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s145-15iwl-g-03_2.jpg",
+            "model": "Lenovo IdeaPad S145",
+            "price": 46000,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-8th-gen-intel-core-i3-notebook.html",
+            "product_title": "Lenovo IdeaPad S145 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB DDR4, 1TB HDD, No-ODD) Nvidia MX110 2GB Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Grey Notebook #81MV018RIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.1-3.9GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i3-8145u-2-1ghz-3-9ghz-4gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700buin.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i3 8145U (2.1GHz-3.9GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700BUIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_4.jpg",
+            "model": "Lenovo Ideapad S340-14IWL",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s340-14iwl-8th-gen-intel-core-i3-notebook-15677.html",
+            "product_title": " Lenovo Ideapad S340-14IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Onyx Black Notebook #81N700BVIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-15iwl-pg-03.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s340-15iwl-8th-gen-intel-core-i3-notebook-15681.html",
+            "product_title": " Lenovo Ideapad S340-15IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N800D5IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-pg-01_3.jpg",
+            "model": "Lenovo Ideapad S340-14IWL",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i3-8145u-2-10ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n700bwin.html",
+            "product_title": " Lenovo Ideapad S340-14IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N700BWIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ab-04.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i3-8145u-2-10ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n800d3in.html",
+            "product_title": " Lenovo Ideapad S340-15IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N800D3IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i3 8145U\nProcessor Clock Speed - 2.10-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ob-03_1.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 48500,
+            "processor": "Intel Core i3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i3-8145u-2-10ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-onyx-black-notebook-81n800d4in.html",
+            "product_title": " Lenovo Ideapad S340-15IWL 8th Gen Intel Core i3 8145U (2.10GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Onyx Black Notebook #81N800D4IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8250U\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81f400pwin-1_3.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 49000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-10786.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB) 14 Inch FHD (1920X1080) Display, Win-10, Midnight Blue Notebook #81G2005DIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81g200awin-01.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 49500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 14 Inch FHD (1920x1080) AntiGlare Display, Win 10, Platinum Grey Notebook #81G200AWIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81g200avin-ob-01.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 49500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-14031.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 14 Inch FHD (1920x1080) AntiGlare Display, Win 10, Onyx Black Notebook #81G200AVIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/d/ideapad-130-01_3.jpg",
+            "model": "Lenovo Ideapad 130",
+            "price": 50000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-130-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo Ideapad 130 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz, 4GB DDR4, 1TB) 15.6 Inch HD (1366x768) Nvidia MX110 2GB Graphics, Free DOS, Black Notebook #81H7007WIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD Ryzen 5 2500U\nProcessor Clock Speed - 2.0-3.6GHz\nDisplay Size - 15.6 inch\nRAM - 8GB (2 x 4GB)\nRAM Type - DDR4 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d2007win-1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 52000,
+            "processor": "AMD Ryzen 5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-ryzen-5-2500u-notebook-10663.html",
+            "product_title": "Lenovo IdeaPad 330 AMD Ryzen 5 2500U (2.0GHz-3.6GHz, 8GB (2x 4GB) DDR4 2400, 1TB) RADEON 540 2GB GDDR5 Graphics, 15.6 Inch FHD (1920X1080) Display, Win-10 Home, Platinum Grey Notebook #81D2007WIN ",
+            "ram": "8GB (2 x 4GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD Ryzen 5 2500U\nProcessor Clock Speed - 2.0-3.6GHz\nDisplay Size - 15.6 inch\nRAM - 8GB (2 x 4GB)\nRAM Type - DDR4 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d6007sin-1_1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 52000,
+            "processor": "AMD Ryzen 5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-ryzen-5-2500u-notebook-10664.html",
+            "product_title": "Lenovo IdeaPad 330 AMD Ryzen 5 2500U (2.0GHz-3.6GHz, 8GB (2x 4GB) DDR4 2400, 1TB) RADEON 540 2GB GDDR5 Graphics, 15.6 Inch FHD (1920X1080) Display, Win-10 Home, Midnight Blue Notebook #81D2007XIN ",
+            "ram": "8GB (2 x 4GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nOptane Memory - 16GB\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81de02qdin-03_1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-14025.html",
+            "product_title": " Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4 + 16GB Optane Memory, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Platinum Grey Notebook #81DE029NIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nOptane Memory - 16GB\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81f501dnin-01_1.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-8250u-1-6ghz-3-4ghz-4gb-ddr4-16gb-optane-memory-1tb-dvd-rw-15-6-inch-fhd-1920x1080-antiglare-display-win-10-midnight-blue-notebook-81de029pin.html",
+            "product_title": " Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4 + 16GB Optane Memory, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Midnight Blue Notebook #81DE029PIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-g-01_2.jpg",
+            "model": "Lenovo IdeaPad IP S145-14IWL",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-14-inch-fhd-1920x1080-display-win-10-grey-notebook-81mu00btin.html",
+            "product_title": "Lenovo IdeaPad IP S145-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 1TB HDD) 14 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MU00BTIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-b-07_2.jpg",
+            "model": "Lenovo IdeaPad IP S145-14IWL",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-14-inch-fhd-1920x1080-display-win-10-black-notebook-81mu00buin.html",
+            "product_title": "Lenovo IdeaPad IP S145-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 1TB HDD) 14 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MU00BUIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s145-15iwl-g-03.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-15iwl-8th-gen-intel-core-i5-notebook.html",
+            "product_title": " Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MV00NRIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ob-03_2.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 52000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-8th-gen-intel-core-i5-notebook-16083.html",
+            "product_title": " Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MV00NSIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - AMD Ryzen 5 2500U\nProcessor Clock Speed - 2.0-3.6GHz\nDisplay Size - 15.6 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81d100f8in-2_1_5.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 53000,
+            "processor": "AMD Ryzen 5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-amd-ryzen-5-2500u-notebook.html",
+            "product_title": "Lenovo IdeaPad 330 AMD Ryzen 5 2500U (2.0GHz-3.6GHz, 8GB DDR4, 1TB) AMD Radeon 540 2GB DDR5 Graphics, 15.6 Inch FHD (1920X1080) Display, Win-10, Onyx Black Notebook #81D2007VIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-03_1.jpg",
+            "model": "Lenovo Ideapad L340",
+            "price": 53200,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-hdd-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-platinum-grey-notebook-81lg009xin.html",
+            "product_title": " Lenovo Ideapad L340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB, DDR4, 1TB HDD, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Grey Notebook #81LG009XIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-gb-03_1.jpg",
+            "model": "Lenovo Ideapad L340",
+            "price": 53200,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-hdd-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-granite-black-notebook-81lg00a1in.html",
+            "product_title": " Lenovo Ideapad L340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB, DDR4, 1TB HDD, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Granite Black Notebook #81LG00A1IN ",
+            "ram": "4gb",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-ab-04.jpg",
+            "model": "Lenovo Ideapad L340",
+            "price": 53200,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-hdd-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-abyss-blue-notebook-81lg009yin.html",
+            "product_title": " Lenovo Ideapad L340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB, DDR4, 1TB HDD, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Abyss Blue Notebook #81LG009YIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81f501dnin-01_3.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 54800,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-14032.html",
+            "product_title": " Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) AMD 530 2GB Graphics, 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Midnight Blue Notebook #81DE02QFIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-15iwl-g-01_2.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 55800,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-8th-gen-intel-core-i5-notebook.html",
+            "product_title": " Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 1TB HDD) Nvidia MX110 2GB Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MV00P3IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4 2133MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-l340-ps-01.jpg",
+            "model": "Lenovo Ideapad L340-15IWL",
+            "price": 57000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-l340-15iwl-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-2133mhz-1tb-hdd-dvd-rw-nvidia-mx230-2gb-graphics-15-6-inch-fhd-1920x1080-antiglare-non-touch-display-win-10-platinum-grey-n.html",
+            "product_title": " Lenovo Ideapad L340-15IWL 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB, DDR4 2133MHz, 1TB HDD, DVD RW) nVidia MX230 2GB Graphics, 15.6 Inch FHD (1920x1080) Antiglare Non Touch Display, Win 10, Platinum Grey Notebook #81LG006LIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81de02qdin-03_4.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 58000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-14033.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB, M.2 Slot, DVD RW) nVidia MX150 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Platinum Grey Notebook #81DE02QHIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8250U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 15.6\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81f501dnin-01_4.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 58000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i5-notebook-14034.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 4GB DDR4, 1TB, M.2 Slot, DVD RW) nVidia MX150 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) AntiGlare Display, Win 10, Midnight Blue Notebook #81DE02QGIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_5.jpg",
+            "model": "Lenovo Ideapad S340-14IWL",
+            "price": 59000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700qpin.html",
+            "product_title": " Lenovo Ideapad S340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700QPIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ob-02_5.jpg",
+            "model": "Lenovo Ideapad IP S340-14IWL",
+            "price": 59000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-onyx-black-notebook-81n700qqin.html",
+            "product_title": " Lenovo Ideapad S340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Onyx Black Notebook #81N700QQIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-14iwl-pg-03.jpg",
+            "model": "Lenovo Ideapad S340-14IWL",
+            "price": 59000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n700qrin.html",
+            "product_title": "Lenovo Ideapad S340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N700QRIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-03.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 59800,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n800ruin.html",
+            "product_title": "Lenovo Ideapad S340-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N800RUIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ob-02.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 59800,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-onyx-black-notebook-81n800rtin.html",
+            "product_title": " Lenovo Ideapad S340-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Onyx Black Notebook #81N800RTIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-pg-02.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 59800,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n800rvin.html",
+            "product_title": "Lenovo Ideapad S340-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N800RVIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s145-14iwl-01.jpg",
+            "model": "Lenovo IdeaPad S145-14IWL",
+            "price": 60800,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-14iwl-8th-gen-intel-core-i7-notebook-16084.html",
+            "product_title": "Lenovo IdeaPad S145-14IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MU00CBIN\t65100(reg) 60800(sug)",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s145-15iwl-g-02_1.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 60800,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-15iwl-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MV00NQIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-ob-02_3.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 60800,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-ip-s145-15iwl-8th-gen-intel-core-i7-notebook-16087.html",
+            "product_title": "Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MV00NPIN\t",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-14iwl-g-01_3.jpg",
+            "model": "Lenovo IdeaPad S145-14IWL",
+            "price": 61000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-14iwl-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Lenovo IdeaPad S145-14IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MU00CAIN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-e590-02.jpg",
+            "model": "Lenovo ThinkPad E590",
+            "price": 62300,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-e590-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-8gb-1tb-hdd-15-6-inch-hd-1366x768-antiglare-display-finger-print-tpm-e-free-dos-black-notebook-20nbs06100.html",
+            "product_title": " Lenovo ThinkPad E590 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4, 1TB HDD) 15.6 Inch HD (1366x768) Antiglare Display, Finger Print Sensor, TPM-E, Free DOS, Black Notebook #20NBS06100 ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 Inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-pg-01.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 62500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n700r4in.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N700R4IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_1.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 62500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700r5in.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700R5IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-e490-b-02.jpg",
+            "model": "Lenovo ThinkPad E490",
+            "price": 62500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-e490-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo ThinkPad E490 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB, 1TB HDD) 14 Inch HD (1366x768) Antiglare Display, Finger Print, TPM-E, Free DOS, Black Notebook #20N8S0JV00",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-14iwl-b-03.jpg",
+            "model": "Lenovo Ideapad S340-14IWL",
+            "price": 65500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-nvidia-mx230-2gb-graphics-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-onyx-black-notebook-81n700qsin.html",
+            "product_title": "Lenovo Ideapad S340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) Nvidia MX230 2GB Graphics, 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Onyx Black Notebook #81N700QSIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-pg-02_1.jpg",
+            "model": "Lenovo Ideapad S340-15IWL",
+            "price": 65500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-4gb-ddr4-1tb-hdd-no-odd-nvidia-mx230-2gb-graphics-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebo.html",
+            "product_title": "Lenovo Ideapad S340-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB, DDR4, 1TB HDD, No-ODD) Nvidia MX230 2GB Graphics, 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N800RWIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8250U\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 14 Inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "IPS FHD",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip520s-gold-1_8.jpg",
+            "model": "Lenovo IdeaPad 520s",
+            "price": 66000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-520s-8th-gen-intel-core-i5-8250u-1-6-3-4ghz-8gb-ddr4-1tb-14-inch-fhd-ips-win-10-home-champagne-gold-flip-able-notebook-with-back-light-keyboard-81bl008vin-2-yr-warranty.html",
+            "product_title": " Lenovo IdeaPad 520s 8th Gen Intel Core i5 8250U (1.6-3.4GHz, 8GB DDR4, 1TB) 14 Inch FHD IPS, Win-10 Home, Champagne Gold Flip-able Notebook with Back-light Keyboard #81BL008VIN (2 Yr Warranty) ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8250U\nProcessor Clock Speed - 1.6-3.4GHz\nDisplay Size - 14 Inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "IPS FHD",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip520s-ballerina-pink-1.jpg",
+            "model": "Lenovo IdeaPad 520s",
+            "price": 66000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ip520s-8th-gen-intel-core-i5-notebook-9168.html",
+            "product_title": " Lenovo IdeaPad 520s 8th Gen Intel Core i5 8250U (1.6-3.4GHz, 8GB DDR4, 1TB) 14 Inch FHD IPS, Win-10 Home, Ballerina Pink, Flip-able Notebook with Back-light Keyboard #81BL00BUIN (2 Yr Warranty) ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6 Inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD\nSSD Expansion Slot - 1 x M.2 SATA Blank SSD Slot"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/s/1/s145-15iwl-g-01_3.jpg",
+            "model": "Lenovo IdeaPad S145-15IWL",
+            "price": 66000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-15iwl-8th-gen-intel-core-i7-notebook-15332.html",
+            "product_title": "Lenovo IdeaPad S145-15IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) Nvidia MX110 2GB Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Grey Notebook #81MV00P5IN ",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 14 inch\nRAM - 4GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2400MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s145-14iwl-b-02.jpg",
+            "model": "Lenovo IdeaPad S145-14IWL",
+            "price": 66000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s145-14iwl-8th-gen-intel-core-i7-notebook-16085.html",
+            "product_title": "Lenovo IdeaPad S145-14IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 4GB DDR4, 1TB HDD, No-ODD) Nvidia MX110 2GB Graphics, 14 Inch FHD (1920x1080) Display, Win 10, Black Notebook #81MU00CCIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8250U\nProcessor Clock Speed - 1.60-3.40GHz\nDisplay Size - 14 Inch\nRAM - 4GB\nRAM Type - DDR4\nStorage - 1TB HDD\nSSD Expansion Slot - 1 x M.2 PCIe Blank SSD Slot"
+            ],
+            "display_size": "14\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-l480-03.jpg",
+            "model": "Lenovo ThinkPad L480",
+            "price": 66300,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-l480-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo ThinkPad L480 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz, 4GB, 1TB HDD) 14 Inch HD (1366x768) Antiglare Display, Finger Print, TPM-E, Free DOS, Black Notebook #20LSS1NA00",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-e590-02_1.jpg",
+            "model": "Lenovo ThinkPad E590",
+            "price": 66500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-e590-8th-gen-intel-core-i5-notebook-15702.html",
+            "product_title": "Lenovo ThinkPad E590 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4, 1TB HDD, No-ODD) AMD Radeon RX550 2GB Graphics, 15.6 Inch HD (1366x768) Antiglare Display, Finger Print Sensor, TPM-E, Free DOS, Black Notebook #20NBS0B800",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i7 8550U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.8-4.0GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD Antiglare LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/1/81de02qdin-03_6.jpg",
+            "model": "Lenovo IdeaPad 330",
+            "price": 67500,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Lenovo IdeaPad 330 8th Gen Intel Core i7 8550U (1.8Ghz-4.0GHz, 8GB DDR4, 1TB, M.2 Slot, DVD RW) AMD 530 4GB Graphics, 15.6 Inch FHD (1920x1080) AntiGlare Display, Endless OS, Platinum Grey Notebook #81DE029QIN",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-pg-01_2.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 67500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n700r7in.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N700R7IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_3.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 67500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700r6in.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700R6IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 14 inch\nRAM - 8GB (2 x 4GB)\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_6.jpg",
+            "model": "Lenovo IdeaPad S340-14IWL",
+            "price": 73500,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-14iwl-8th-gen-intel-core-i7-8565u-1-80ghz-4-60ghz-8gb-ddr4-1tb-hdd-no-odd-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700qtin.html",
+            "product_title": "Lenovo IdeaPad S340-14IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB DDR4, 1TB HDD, No-ODD) 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700QTIN",
+            "ram": "8GB (2 x 4GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6 inch\nRAM - 8GB (2 x 4GB)\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-ip-s340-15iwl-pg-02_2.jpg",
+            "model": "Lenovo IdeaPad S340-15IWL",
+            "price": 73500,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-15iwl-8th-gen-intel-core-i7-8565u-1-80ghz-4-60ghz-8gb-ddr4-1tb-hdd-no-odd-15-6-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebook-81n800rxin.html",
+            "product_title": "Lenovo IdeaPad S340-15IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB DDR4, 1TB HDD, No-ODD) 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N800RXIN",
+            "ram": "8GB (2 x 4GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-pg-01_1.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 75500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-nvidia-mx230-2gb-graphics-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-platinum-grey-notebo.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) Nvidia MX230 2GB Graphics, 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Platinum Grey Notebook #81N700C5IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-ab-01_2.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 75500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-nvidia-mx230-2gb-graphics-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-abyss-blue-notebook-81n700c3in.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) Nvidia MX230 2GB Graphics, 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Abyss Blue Notebook #81N700C3IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.6-3.9GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s340-gb-01.jpg",
+            "model": "Lenovo Ideapad S340",
+            "price": 75500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s340-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-nvidia-mx230-2gb-graphics-14-inch-fhd-1920x1080-ips-display-backlit-keyboard-win-10-granite-black-notebo.html",
+            "product_title": " Lenovo Ideapad S340 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) Nvidia MX230 2GB Graphics, 14 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Granite Black Notebook #81N700C4IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s540-14iwl-mg-01.jpg",
+            "model": "Lenovo Ideapad S540-14IWL",
+            "price": 76000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s540-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-8gb-ddr4-512gb-pcie-ssd-no-odd-14-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-win-10-mineral-grey-notebook-81nd00cdin.html",
+            "product_title": " Lenovo Ideapad S540-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB, DDR4, 512GB PCIe SSD, No-ODD) 14 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Mineral Grey Notebook #81ND00CDIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s540-14iwl-ab-02.jpg",
+            "model": "Lenovo Ideapad S540-14IWL",
+            "price": 76000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s540-14iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-8gb-ddr4-512gb-pcie-ssd-no-odd-14-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-win-10-abyss-blue-notebook-81nd00cfin.html",
+            "product_title": " Lenovo Ideapad S540-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB, DDR4, 512GB PCIe SSD, No-ODD) 14 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Abyss Blue Notebook #81ND00CFIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i5 8300H\nGeneration - 8th Gen\nProcessor Clock Speed - 2.3-4.0GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/3/3/330-15ich-ob-01.jpg",
+            "model": "Lenovo IdeaPad 330-15ICH",
+            "price": 78500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-15ich-8th-gen-core-i5-notebook.html",
+            "product_title": "Lenovo IdeaPad 330-15ICH 8th Gen Intel Core i5 8300H (2.3GHz-4.0GHz, 8GB, 128GB SSD + 1TB HDD) nVidia GTX 1050 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Onyx Black Notebook #81FK00JYIN",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/3/c340-14iwl-pg-01.jpg",
+            "model": "Lenovo Convertible C340-14IWL",
+            "price": 79500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-convertible-c340-14iwl-8th-gen-intel-core-i5-notebook-15329.html",
+            "product_title": "Lenovo Convertible C340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 512GB PCIe SSD, No-ODD) 14 Inch FHD (1920x1080) Touch Display, Backlit Keyboard, Finger Print Sensor, Win 10, Platinum Grey Notebook #81N400EVIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 15.6 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s540-14iwl-mg-01_1.jpg",
+            "model": "Lenovo Ideapad S540-15IWL",
+            "price": 79500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s540-15iwl-8th-gen-intel-core-i5-8265u-1-60ghz-3-90ghz-8gb-ddr4-1tb-hdd-128gb-ssd-no-odd-nvidia-mx250-2gb-graphics-15-6-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-w.html",
+            "product_title": " Lenovo Ideapad S540-15IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB, DDR4, 1TB HDD + 128GB SSD, No-ODD) Nvidia MX250 2GB Graphics, 15.6 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Mineral Grey Notebook #81NE004FIN",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 14\"\nRAM - 4GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/3/c340-14iwl-ab-01.jpg",
+            "model": "Lenovo Convertible C340-14IWL",
+            "price": 82000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-convertible-c340-14iwl-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo Convertible C340-14IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4, 512GB PCIe SSD, No-ODD) 14 Inch FHD (1920x1080) Touch Display, Backlit Keyboard, Finger Print Sensor, Win 10, Abyss Blue Notebook #81N400EUIN",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i7 8550U\nGeneration - 8th Gen\nProcessor Clock Speed - 1.8-4.0GHz\nDisplay Size - 14.1\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "14.1\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/5/3/530s-14ikb-c-01_1.jpg",
+            "model": "Lenovo IdeaPad 530S-14IKB",
+            "price": 84000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-530s-14ikb-8th-gen-core-i7-notebook.html",
+            "product_title": "Lenovo IdeaPad 530S-14IKB 8th Gen Intel Core i7 8550U (1.8GHz-4.0GHz, 8GB, 512GB PCIe SSD) 14.1 FHD (1920x1080) Display, Win 10, Copper Notebook #81EU00SSIN",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "HD Antiglare",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-e590-02_2.jpg",
+            "model": "Lenovo ThinkPad E590",
+            "price": 84000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-e590-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Lenovo ThinkPad E590 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB DDR4, 1TB HDD, No-ODD) AMD Radeon RX550 2GB Graphics, 15.6 Inch HD (1366x768) Antiglare Display, Finger Print Sensor, TPM-E, Free DOS, Black Notebook #20NBS0B900",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i7 8750H\nGeneration - 8th Gen\nProcessor Clock Speed - 2.2-4.1GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/3/3/330-15ich-ob-01_1.jpg",
+            "model": "Lenovo IdeaPad 330-15ICH",
+            "price": 88500,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-330-15ich-8th-gen-core-i7-notebook.html",
+            "product_title": " Lenovo IdeaPad 330-15ICH 8th Gen Intel Core i7 8750H (2.2GH-4.1GHz, 8GB, 128GB SSD + 1TB HDD) nVidia 1050 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Onyx Black Notebook #81FK00K0IN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8265U\nProcessor Clock Speed - 1.60-3.90GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nStorage - 512GB PCIe SSD\nGraphics Chipset - Intel UHD Graphics 620\nGraphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/y/o/yoga-s730-13iwl-ig-01.jpg",
+            "model": "Lenovo Yoga S730-13IWL",
+            "price": 95000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-yoga-s730-13iwl-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Lenovo Yoga S730-13IWL 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB, 512GB PCIe SSD, No-ODD) 13.3 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Irony Grey Notebook #81J0009NIN",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 14\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "14\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s540-14iwl-ab-02_1.jpg",
+            "model": "Lenovo Ideapad S540-14IWL",
+            "price": 95000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s540-14iwl-8th-gen-intel-core-i7-8565u-1-80ghz-4-60ghz-8gb-ddr4-512gb-pcie-ssd-no-odd-nvidia-mx250-2gb-graphics-14-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-win-10.html",
+            "product_title": " Lenovo Ideapad S540-14IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB, DDR4, 512GB PCIe SSD, No-ODD) Nvidia MX250 2GB Graphics, 14 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Abyss Blue Notebook #81ND005TIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 15.6 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB PCIe SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "2GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip-s540-14iwl-mg-01_2.jpg",
+            "model": "Lenovo Ideapad S540-15IWL",
+            "price": 95000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-s540-15iwl-8th-gen-intel-core-i7-8565u-1-80ghz-4-60ghz-8gb-ddr4-512gb-pcie-ssd-no-odd-nvidia-mx250-2gb-graphics-15-6-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-win-.html",
+            "product_title": " Lenovo Ideapad S540-15IWL 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB, DDR4, 512GB PCIe SSD, No-ODD) Nvidia MX250 2GB Graphics, 15.6 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Mineral Grey Notebook #81NE008PIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i5 8300H\nProcessor Clock Speed - 2.3-4.0GHz\nDisplay Size - 15.6\"\nRAM - 8GB\nRAM Type - DDR4 2666MHz\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "IPS FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/y/5/y530-01.jpg",
+            "model": "Lenovo Legion Y530",
+            "price": 95500,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-legion-y530-15ich-8th-gen-intel-core-i5-notebook.html",
+            "product_title": " Lenovo Legion Y530-15ICH 8th Gen Intel Core i5 8300H (2.3GHz-4.0GHz, 8GB DDR4 2666MHz, 1TB HDD + 128GB SSD, No-ODD) Nvidia GTX 1050Ti 4GB Graphics, 15.6 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Black Gaming Notebook #81FV016TIN ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8565U\nProcessor Clock Speed - 1.80-4.60GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nStorage - 512GB PCIe SSD\nGraphics Chipset - Intel UHD Graphics 620"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/y/o/yoga-s730-ig-01.jpg",
+            "model": "Lenovo Yoga S730",
+            "price": 116500,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-yoga-s730-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Lenovo Yoga S730 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB, 512GB PCIe SSD, No-ODD) 13.3 Inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Irony Grey Notebook #81J000A2IN",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor Generation - 8th Gen\nProcessor - Intel Core i7 8550U\nProcessor Clock Speed - 1.8-4.0GHz\nDisplay Size - 13.3 inch\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB SSD"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/p/ip720s-platinum-2.jpg",
+            "model": "Lenovo IdeaPad 720s",
+            "price": 117000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-ideapad-720s-8th-gen-intel-core-i7-8550u-1-8ghz-4-0ghz-8gb-ddr4-512gb-ssd-13-3-inch-fhd-1920x1080-display-backlit-keyboard-finger-print-sensor-win-10-platinum-notebook-81bv009kin-2y.html",
+            "product_title": " Lenovo IdeaPad 720s 8th Gen Intel Core i7 8550U (1.8GHz-4.0GHz, 8GB DDR4, 512GB SSD) 13.3 inch FHD (1920x1080) Display, Backlit Keyboard, Finger Print Sensor, Win 10, Platinum Notebook #81BV009KIN-2Y ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Processor - Intel Core i7 8750H\nGeneration - 8th Gen\nProcessor Clock Speed - 2.2-4.1GHz\nDisplay Size - 15.6\"\nRAM - 16GB\nRAM Type - DDR4\nStorage - 1TB HDD + 128GB SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/legion-y530-15ich-b-01.jpg",
+            "model": "Lenovo LEGION Y530-15ICH",
+            "price": 120000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-legion-y530-15ich-8th-gen-core-i7-notebook.html",
+            "product_title": "Lenovo LEGION Y530-15ICH 8th Gen Intel Core i7 8750H (2.2GHz-4.1GHz, 16GB, 128GB SSD + 1TB HDD) nVidia GTX 1050Ti 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Black Gaming Notebook #81FV00L3IN",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Generation - 8th Gen\nProcessor - Intel Core i7 8550U\nProcessor Clock Speed - 1.8-4.0GHz\nDisplay Size - 12.5\"\nRAM - 8GB\nRAM Type - DDR4\nStorage - 512GB SSD"
+            ],
+            "display_size": "12.5\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/t/h/thinkpad-x280-1_1.jpg",
+            "model": "Lenovo ThinkPad X280",
+            "price": 145000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-thinkpad-x280-8th-gen-core-i7-notebook.html",
+            "product_title": "Lenovo Thinkpad X280 8th Gen Intel Core i7 8550U (1.8GHz-4.0GHz, 8GB, 512GB SSD) 12.5 Inch FHD (1920x1080) Display, Backlit Keyboard, Fingerprint Reader, Win 10 Pro, Pure Black Notebook #20KES6TN00",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Lenovo",
+            "description": [
+                "Generation - 8th Gen\nProcessor - Intel Core i7 8550U\nProcessor Clock Speed - 1.80-4.0GHz\nDisplay Size - 13.9\"\nRAM - 16GB\nRAM Type - DDR4"
+            ],
+            "display_size": "13.9\"",
+            "display_type": "UHD IPS Touch",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/8/0/80y700d3in-br-1.jpg",
+            "model": "Lenovo Yoga 920",
+            "price": 195000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all/lenovo-yoga-920-8th-gen-intel-core-i7-notebook-10668.html",
+            "product_title": " Lenovo Yoga 920 8th Gen Intel Core i7 8550U (1.80GHz-4.0GHz, 16GB, 1TB SSD) 13.9 Inch UHD (3840 x 2160) IPS Touch Screen, Backlit Keyboard, Finger Print Sensor, Active Pen, Win 10 Pro, Bronze Notebook #80Y700D3IN",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "Products": [
+        {
+            "brand": "MSI",
+            "description": [
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i5 9300H\nProcessor Clock Speed - 2.40-4.10GHz\nDisplay Size - 15.6 inch\nRAM - 8GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB HDD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gf63-thin-9rc-02.jpg",
+            "model": "MSI GF63 Thin 9RC",
+            "price": 81000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf63-thin-9rc-9th-gen-intel-core-i5-9300h-notebook.html",
+            "product_title": "MSI GF63 Thin 9RC 9th Gen Intel Core i5 9300H (2.40GHz-4.10GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 1TB HDD) Nvidia GTX 1050 Ti 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) 60Hz Display, Free Dos, Black Gaming Notebook #9S7-16R312-489",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "MSI",
+            "description": [
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 17.3 inch\nRAM - 8GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB HDD + 128GB NvME SSD"
+            ],
+            "display_size": "17.3\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gf75-thin-9sc-02.jpg",
+            "model": "MSI GF75 Thin 9SC",
+            "price": 111000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf75-thin-9sc-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GF75 Thin 9SC 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 1TB HDD + 128GB NvME SSD) Nvidia GTX 1650 4GB GDDR5 Graphics, 17.3 Inch FHD (1920x1080) 60Hz Display, Free Dos, Black Gaming Notebook #9S7-17F212-248",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "MSI",
+            "description": [
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 15.6 inch\nRAM - 16GB (2 x 8GB)\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB NvME SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "6GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-ge65-raider-9se-02.jpg",
+            "model": "MSI GE65 Raider 9SE",
+            "price": 187000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ge65-raider-9se-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GE65 Raider 9SE 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 1TB NvME SSD) Nvidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 240Hz Display, Free Dos, Black Gaming Notebook #9S7-16U112-209",
+            "ram": "16GB (2 x 8GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "MSI",
+            "description": [
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 15.6 inch\nRAM - 16GB (2 x 8GB)\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 512GB NvME SSD"
+            ],
+            "display_size": "15.6\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "6GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gs65-stealth-9se-02.jpg",
+            "model": "MSI GS65 Stealth 9SE",
+            "price": 201000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gs65-stealth-9se-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GS65 Stealth 9SE 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 512GB NvME SSD) Nvidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 240Hz Display, Free Dos, Black Gaming Notebook #9S7-16Q411-109",
+            "ram": "16GB (2 x 8GB)",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        }
+    ]
+}
