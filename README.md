@@ -5,7 +5,7 @@ An e-commerce web-based project where people can see a comparison list of prices
 It is specialized in meta-searching and UX along with common features of an e-commerce system.
 
 # Notice 
-This project has been continued to [sheradambd](http://www.sheradambd.com/) and currently maintained by [GOLAM MOHAMMAD Shovon](https://github.com/golam-shovon)
+This project has been continued to [Sourav kumar jha](http://www.sheradambd.com/) and currently maintained by [Sourav kumar jha](https://github.com/Souravjha1999/Seradam-E-Commerce)
 
 ## Contributors
 * **SOURAV KUMAR JHA**   - [Sourav kr. jha](https://github.com/jishnusaha)
